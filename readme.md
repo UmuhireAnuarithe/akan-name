@@ -15,3 +15,5 @@ none
 * Entered birth date should be valid
 * Select gender
 * submit
+### license and copyright
+ <p>&copy;Anuarithe Umuhire</p>
