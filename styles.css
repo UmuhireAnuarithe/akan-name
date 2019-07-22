@@ -1,10 +1,17 @@
-h1{
+/* h1{
   font-family: 3em lucida ,'Sans', 'Lucida ,'Sans', 'Regular', 'Lucida ,'Grande' ;
   text-align: center;
   margin-top: 0ch;
   background-color: aqua;
-  color: orangered;
+  color: orangered; */
 
+/* } */
+h1{
+color:orangered;
+  font-style: italic;
+  text-align: center;
+  font-size:70px;
+  font-family: 'Literata', serif
 }
 footer{
   text-align: center;
