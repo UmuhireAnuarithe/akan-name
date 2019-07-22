@@ -40,3 +40,9 @@ h3{
   font-family: 'Literata', cursive;
   text-align: center;
 }
+p {
+  margin-left: 20px;
+  margin-right: 30px;
+  font-size:20px;
+  font-family: 'Literata', serif;
+}
