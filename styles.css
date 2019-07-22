@@ -11,8 +11,8 @@ color:orangered;
   font-style: italic;
   text-align: center;
   font-size:70px;
-  font-family: 'Literata', serif
-  
+  font-family: 'Literata', serif;
+  text-decoration:none;
 }
 .head{
   background-color: aqua;
