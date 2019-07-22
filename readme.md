@@ -10,9 +10,9 @@ culture,where children given names according to the day of week they were born.
 ### setup installation
 none
 ### behavior driven development
-*Enter your birth date
-*Entered birth date should be valid
-*Select gender
-*submit
+* Enter your birth date
+* Entered birth date should be valid
+* Select gender
+* submit
 ### license and copyright
 Anuarithe Umuhire

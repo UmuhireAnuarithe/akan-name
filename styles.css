@@ -11,8 +11,11 @@ color:orangered;
   font-style: italic;
   text-align: center;
   font-size:70px;
-  font-family: 'Literata', serif;
-  background-color :aqua;
+  font-family: 'Literata', serif
+  
+}
+.head{
+  background-color: aqua;
 }
 footer{
   text-align: center;
